@@ -1,0 +1,35 @@
+_repo: Ciklamen-b-Szinjatek-3-felvonasban_73971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gábor, Andor
+    aliases:
+    - Gabor, Andor
+    - Greiner, Andor
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '56824'
+    url: http://www.gutenberg.org/2009/agents/56824
+    wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1bor_Andor_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2024-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73971'
+  lccn: '31024107'
+language: hu
+pgterms:marc905: 20240630062629gbor
+pgterms:marc906: '1915'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bDick Manó, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Ciklámen : $b Szinjáték 3 felvonásban'
+url: http://www.gutenberg.org/ebooks/73971
